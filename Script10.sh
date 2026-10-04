@@ -8,4 +8,5 @@ echo "a is greater than b"
 else
 echo "a is smaller than b"
 fi
-hi this is branch-1 
+hi this is branch-2 how are you
+and also add this line 
